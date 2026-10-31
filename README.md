@@ -5,6 +5,7 @@
 > Ayudo a negocios a ordenar su operación con **Excel, sistemas y marketing**.
 > Trabajo en **Hipermercado Kari** (Barquisimeto) y construyo software real con **Hayai**.
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elis-xavier-p%C3%A9rez-p%C3%A9rez-46a2a8426)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Zevicreed)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:elisxperez@gmail.com)
 ![Visitors](https://komarev.com/ghpvc/?username=Zevicreed&color=107C41&style=flat&label=Visitas)
